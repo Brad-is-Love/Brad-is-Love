@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brad-is-Love
 - 👀 I’m interested in cryptocurrency, web and app development.
-- 🌱 I’m currently learning Fullstack Fundamentals - Very difficult
+- 🌱 Making NFT Platforms for GoodTimesCoin
 - 💞️ I’m looking to collaborate on my latest rap album, or some coding stuff I guess
 - 📫 How to reach me: You just call out my name, and you know wherever I am, I'll come running.
 
